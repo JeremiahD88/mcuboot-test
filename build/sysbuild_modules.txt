@@ -1,0 +1,1 @@
+"mcuboot":"/home/jerdan/mcuboot-workspace/bootloader/mcuboot":"/home/jerdan/mcuboot-workspace/bootloader/mcuboot/boot/zephyr/sysbuild"
